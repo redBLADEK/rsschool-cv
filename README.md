@@ -1,1 +1,1 @@
-https://redBLADEK.github.io/rsschool-cv/cv in it
+https://redBLADEK.github.io/rsschool-cv/cv
