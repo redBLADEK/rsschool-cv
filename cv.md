@@ -1,4 +1,4 @@
-1. Name: Rabau Uladzislau
+1. Name: Uladzislau Rabau
 2. Contact Info: 
                 e-mail: chocovladik@gmail.com 
                 skype: live:chocovladik
@@ -18,6 +18,7 @@
           JavaScript
           CSS
           Git
+          Github
 5. Experience:
               2014-2017 / Work protection engineer / Department of education and sport of                 the Vitebsk city
               2017-2018 / Seller / OMA / Minsk
